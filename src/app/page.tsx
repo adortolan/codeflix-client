@@ -8,7 +8,7 @@ export default function Home() {
       <Header />
       <main className='relative pb-24 pl-4 lg:pl-16'>
         <Banner />
-        <MovieRow title='Trending Now' />
+        <MovieRow title='Trending Now' movies={[]} />
       </main>
     </div>
   );
