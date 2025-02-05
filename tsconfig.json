@@ -27,7 +27,8 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "src/app/components/Header.tsx"
+    "src/app/components/Header.tsx",
+    "src/app/auth/forgot-password/page.jsx"
   ],
   "exclude": ["node_modules"]
 }
